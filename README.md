@@ -1,2 +1,2 @@
 # NoSQL Column Store DBs // Apache Cassandra, HBase
-Bibliographic Assignment for DWS course Technologies for Big Data Analytics for Fall Semester 23/24
+Presentation of NoSQL column store databases, focusing on Apache Cassandra and HBase, for the course Technologies for Big Data Analytics @ AUTh, MSc DWS
